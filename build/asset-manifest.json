@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MovieList.github.io/static/css/main.a102879e.css",
+    "main.js": "/MovieList.github.io/static/js/main.a5811865.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MovieList.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/MovieList.github.io/index.html",
+    "main.a102879e.css.map": "/MovieList.github.io/static/css/main.a102879e.css.map",
+    "main.a5811865.js.map": "/MovieList.github.io/static/js/main.a5811865.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MovieList.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.a5811865.js"
+  ]
+}
